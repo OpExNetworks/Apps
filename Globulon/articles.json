@@ -36,7 +36,7 @@
             "summary": "Automatically login to the app.",
             "search": "all, auto, login, iPhones, Touch ID, Face ID, password",
             "label_names": [],
-            "section_names": ["PINNED", "SECURITY"],
+            "section_names": ["SECURITY"],
             "created_at": "2017-07-14T20:54:51Z",
             "updated_at": "2017-08-30T15:48:03Z",
             "body": "<p>Auto login is useful for iPhones where Touch ID or Face ID is not enabled but you want the app to automatically login.  This simplifies access for older phones.</p><p>Warning:  Enabling this makes access to this application less secure</p>",
@@ -60,7 +60,7 @@
             "updated_at": "2017-08-30T15:48:03Z",
             "title": "Password",
             "summary": "Secure your account.",
-            "search": "Password, access, Face ID, Touch ID, secure",
+            "search": "password, access, Face ID, Touch ID, secure",
             "label_names": [],
             "section_names": ["SECURITY"],
             "body": "<p>The app requires you to enter a traditional password as a backup for access to the app when Face ID or Touch ID is disabled to keep the application secure.</p>",
@@ -72,7 +72,7 @@
             "updated_at": "2017-08-30T15:48:52Z",
             "title": "Helpful Articles symbol",
             "summary": "Change the Helpful Articles symbol.",
-            "search": "symbol, helpful, pinned, articles",
+            "search": "all, symbol, helpful, pinned, articles",
             "label_names": [],
             "section_names": ["OTHER"],
             "body": "<p>The user can select from several symbols in the Settings option in the Settings Menu to highlight the Helpful Articles section of the FAQs</p>",
@@ -92,7 +92,3 @@
         }
     ]
 }
-
-
-
-
