@@ -20,7 +20,7 @@
     "articles": [
         {
             "id": "ID_1",
-            "title": "Expanded FAQs",
+            "title": "Expanded FAQs (remote)",
             "summary": "Expand the FAQs to show help summary.",
             "search": "all, help, expand, list, summary, faq",
             "label_names": [],
