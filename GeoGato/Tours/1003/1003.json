@@ -6,6 +6,8 @@
         "created_on": "2025-01-12T15:48:52Z",
         "updated_on": "2025-01-14T15:48:52Z",
         "author": "David Holeman",
+        "title": "title",
+        "sub_title": "sub_title",
         "desc": "This JSON file contains test 3 data."
       },
     "poi": [
