@@ -6,28 +6,28 @@
         "created_on": "2025-01-12T15:48:52Z",
         "updated_on": "2025-01-14T15:48:52Z",
         "author": "David Holeman",
-        "title": "title",
-        "sub_title": "sub_title",
-        "desc": "(Remote) This JSON file contains test 2 data."
+        "title": "Diblo West",
+        "sub_title": "Greenbelt walking tour",
+        "desc": "(Remote - GitHub)"
       },
     "poi": [
       {
-        "id": "stop_01_1002",
+        "id": "1002-01",
         "order_index": 1,
-        "title": "Stop 1 title",
-        "sub_title": "Stop 1 subtitle",
-        "desc": "Stop 1 description",
-        "latitude": 37.33477977,
-        "longitude": -122.03369603
+        "title": "Library",
+        "sub_title": "Pop up library",
+        "desc": "Books and small things to share",
+        "latitude": 37.818726,
+        "longitude": -121.983999
       },
       {
-        "id": "stop_02_1002",
+        "id": "1002-02",
         "order_index": 2,
-        "title": "Stop 2 title",
-        "sub_title": "Stop 2 subtitle",
-        "desc": "Stop 2 description",
-        "latitude": 37.33445945,
-        "longitude": -122.04342255
+        "title": "Fairy Garden",
+        "sub_title": "Small Fairy garden at base of tree",
+        "desc": "Small Fairy garden anonomously maintained by residents",
+        "latitude": 37.817633,
+        "longitude": -121.983727
       }
     ]
   }
