@@ -14,18 +14,18 @@
       {
         "id": "1004-01",
         "order_index": 1,
-        "title": "Starbucks",
-        "sub_title": "Hartz & Prospect",
-        "desc": "Center of Danville, CA",
+        "title": "[title]",
+        "sub_title": "[sub_title]",
+        "desc": "[desc]",
         "latitude": 37.821929,
         "longitude": -121.999832
       },
       {
         "id": "1004-02",
         "order_index": 2,
-        "title": "Stop 2 title",
-        "sub_title": "Stop 2 subtitle",
-        "desc": "Stop 2 description",
+        "title": "[title]",
+        "sub_title": "[sub_title]",
+        "desc": "[desc]",
         "latitude": 37.33445945,
         "longitude": -122.04342255
       }
