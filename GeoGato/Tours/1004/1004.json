@@ -6,28 +6,28 @@
         "created_on": "2025-01-12T15:48:52Z",
         "updated_on": "2025-01-14T15:48:52Z",
         "author": "David Holeman",
-        "title": "Apple Simulator - Walking",
-        "sub_title": "Walking test for POI",
+        "title": "Apple Simulator - Running",
+        "sub_title": "Running test for POI",
         "desc": "Test POI region detection using Apple Simulator"
       },
     "poi": [
       {
         "id": "1004-01",
         "order_index": 1,
-        "title": "[title]",
+        "title": "1st POI",
         "sub_title": "[sub_title]",
         "desc": "[desc]",
-        "latitude": 37.821929,
-        "longitude": -121.999832
+        "latitude": 37.33128013,
+        "longitude": -122.03073774
       },
       {
         "id": "1004-02",
         "order_index": 2,
-        "title": "[title]",
+        "title": "2nd POI",
         "sub_title": "[sub_title]",
         "desc": "[desc]",
-        "latitude": 37.33445945,
-        "longitude": -122.04342255
+        "latitude": 37.33069778,
+        "longitude": -122.03035543
       }
     ]
   }
