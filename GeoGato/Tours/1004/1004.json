@@ -12,7 +12,7 @@
       },
     "poi": [
       {
-        "id": "1004-1",
+        "id": "1004-01",
         "order_index": 1,
         "title": "Starbucks",
         "sub_title": "Hartz & Prospect",
@@ -21,7 +21,7 @@
         "longitude": -121.999832
       },
       {
-        "id": "1004-2",
+        "id": "1004-02",
         "order_index": 2,
         "title": "Stop 2 title",
         "sub_title": "Stop 2 subtitle",
