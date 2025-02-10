@@ -6,13 +6,13 @@
         "created_on": "2025-01-12T15:48:52Z",
         "updated_on": "2025-01-14T15:48:52Z",
         "author": "David Holeman",
-        "title": "title",
-        "sub_title": "sub_title",
-        "desc": "This JSON file contains test 3 data."
+        "title": "Danville",
+        "sub_title": "Downtown Danville, CA",
+        "desc": "POI in downtown Danville, CA"
       },
     "poi": [
       {
-        "id": "1003-1",
+        "id": "1003-01",
         "order_index": 1,
         "title": "Starbucks",
         "sub_title": "Hartz & Prospect",
@@ -21,7 +21,7 @@
         "longitude": -121.999832
       },
       {
-        "id": "stop_02_1003",
+        "id": "1003-02",
         "order_index": 2,
         "title": "Stop 2 title",
         "sub_title": "Stop 2 subtitle",
