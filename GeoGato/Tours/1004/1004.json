@@ -1,1 +1,33 @@
-
+{
+    "metadata": {
+        "application": "GeoGato",
+        "version": "0.1.0",
+        "tour_id": "1004",
+        "created_on": "2025-01-12T15:48:52Z",
+        "updated_on": "2025-01-14T15:48:52Z",
+        "author": "David Holeman",
+        "title": "Apple Simulator - Walking",
+        "sub_title": "Walking test for POI",
+        "desc": "Test POI region detection using Apple Simulator"
+      },
+    "poi": [
+      {
+        "id": "1004-1",
+        "order_index": 1,
+        "title": "Starbucks",
+        "sub_title": "Hartz & Prospect",
+        "desc": "Center of Danville, CA",
+        "latitude": 37.821929,
+        "longitude": -121.999832
+      },
+      {
+        "id": "1004-2",
+        "order_index": 2,
+        "title": "Stop 2 title",
+        "sub_title": "Stop 2 subtitle",
+        "desc": "Stop 2 description",
+        "latitude": 37.33445945,
+        "longitude": -122.04342255
+      }
+    ]
+  }
