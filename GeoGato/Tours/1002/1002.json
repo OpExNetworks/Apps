@@ -14,6 +14,15 @@
       {
         "id": "1002-01",
         "order_index": 1,
+        "title": "Ynez",
+        "sub_title": "Ynez",
+        "desc": "Test location",
+        "latitude": 37.819128,
+        "longitude": -121.985596
+      },
+      {
+        "id": "1002-02",
+        "order_index": 2,
         "title": "Library",
         "sub_title": "Pop up library",
         "desc": "Books and small things to share",
@@ -21,8 +30,8 @@
         "longitude": -121.983999
       },
       {
-        "id": "1002-02",
-        "order_index": 2,
+        "id": "1002-3",
+        "order_index": 3,
         "title": "Fairy Garden",
         "sub_title": "Small Fairy garden at base of tree",
         "desc": "Small Fairy garden anonomously maintained by residents",
